@@ -1,3 +1,7 @@
+> WARNING: This repository has been archived
+>
+> Track further changes at: https://github.com/avisiedo/template-dotnet
+
 # TODO Update README.md
 
 Common template
